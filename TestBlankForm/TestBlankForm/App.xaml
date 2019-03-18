@@ -3,6 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TestBlankForm.App">
     <Application.Resources>
-
+        <!-- this is a test of the push and pulling, as requested by Curtis-->
     </Application.Resources>
 </Application>
