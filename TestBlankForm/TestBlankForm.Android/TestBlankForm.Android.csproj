@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
@@ -93,7 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestBlankForm\TestBlankForm.csproj">
-      <Project>{CBB174A9-AFB4-4B0E-96B5-C38A40486797}</Project>
+      <Project>{847A2C9F-181E-49CB-BA6A-17FBAF4881E0}</Project>
       <Name>TestBlankForm</Name>
     </ProjectReference>
   </ItemGroup>
