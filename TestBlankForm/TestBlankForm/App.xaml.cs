@@ -11,6 +11,7 @@ namespace TestBlankForm
         {
             InitializeComponent();
 
+            //if we had a new page that we wanted to open when someone startst he app, heres where we would change it
             MainPage = new MainPage();
         }
 

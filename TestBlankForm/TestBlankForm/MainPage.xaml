@@ -20,5 +20,14 @@
                     Text="Delete"
                     Clicked="OnDeleteButtonClicked"/>
         </Grid>
+        
+        <!-- new testing stuff ~Josh-->
+
+        <Label HorizontalOptions="Center" VerticalOptions="Center" Text="Hello World!" x:Name="SliderLabel"></Label>
+        
+        <Button HorizontalOptions="Center" VerticalOptions="Center"
+                Clicked="Button_Clicked"></Button>
+        <Slider ValueChanged="Slider_ValueChanged" x:Name="Slider"/>
+
     </StackLayout>
 </ContentPage>
