@@ -46,6 +46,9 @@ namespace TestBlankForm
         private void Button_Clicked(object sender, EventArgs e)
         {
             DisplayAlert("Hello, Team!", "How you doin?", "Fine, i hope?");
+            //link to the xml file were looking at
+            //http://10.101.4.18/ReportServer?%2FPetPoint%20Reports%2FAnimalInventory&amp;rs%3ACommand=Render&amp;rs%3AFormat=XML&amp;rs%3ASessionID=rl0gfl55fvbti545bkvzixf1&amp;rc%3ASchema=True
+
         }
 
         private void Slider_ValueChanged(object sender, ValueChangedEventArgs e)
